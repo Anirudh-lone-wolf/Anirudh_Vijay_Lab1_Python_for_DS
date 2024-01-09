@@ -7,3 +7,6 @@
 
 ![e_commerce_schema-1](https://github.com/Anirudh-lone-wolf/Anirudh_Vijay_Lab1_Python_for_DS/assets/66291656/55d1fb91-46d8-452d-956e-46a305e784d0)
 
+### Libraries Used : Numpy, Pandas, mysql.connector
+
+### All questions and solutions are in the the uploaded .ipynb file. 
